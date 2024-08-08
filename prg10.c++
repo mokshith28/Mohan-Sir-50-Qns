@@ -16,7 +16,7 @@ void printPattern(int n) {
 
 int main() {
     int rows;
-    cout << "Enter the number of rows for the pattern: ";
+    cout << "Enter the number of rows for the pattern:\n";
     cin >> rows;
     printPattern(rows);
     return 0;
